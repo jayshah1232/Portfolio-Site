@@ -10,3 +10,7 @@
 #icon_nav {
     padding: 0px;
 }
+
+#navEnd {
+    align-self: flex-end;
+}
